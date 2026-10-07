@@ -1,0 +1,6 @@
+python-telegram-bot
+fake-useragent
+aiohttp
+requests
+beautifulsoup4
+urllib3
